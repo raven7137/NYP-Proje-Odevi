@@ -128,4 +128,7 @@ Proje MySQL veritabanı kullanılarak geliştirilmiştir. Veritabanı Şeması:
 
 ![denizusecase](https://github.com/user-attachments/assets/60c3cde3-4051-4234-8e20-acef98416cb5)
 
+## Proje Videosu
+
+https://www.youtube.com/watch?v=TBhs2Li5EIA
 
